@@ -1,0 +1,163 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.clear:after{
+	content: "";
+    clear:both;
+    display:block;
+}
+.outer{
+	width:1920px;
+	height:1020px;
+}
+.top{
+	width:1920px;
+	height:202px;
+	background:url(image3/top.jpg) no-repeat;
+}
+.topl{
+	width:472px;
+	height:202px;
+	overflow: hidden;
+}
+.ta{
+	width:196px;
+	height:50px;
+	background:url(image/logo.png) no-repeat;
+	margin-top:50px;
+}
+.tb{
+	font-size: 16px;
+	font-family:"微软雅黑";
+	color:#fff;
+	margin-top:160px;
+	margin-right: -179px;
+}
+.topr{
+	width:638px;
+	height:32px;
+	margin-right:332px;
+	margin-top:68px;
+}
+
+.topr a{
+	width:100px;
+	height:33px;
+	text-decoration: none;
+	font-size: 18px;
+	font-family:"微软雅黑";
+	color:#000;
+	border-bottom:4px #000 solid;
+	text-align: center;
+}
+.topr a:hover{
+	border-bottom:4px #c2191f solid;
+}
+.center{
+	width:1920px;
+	height:631px;
+    border-bottom:1px #727172 solid;
+    overflow: hidden;
+}
+.center1{
+	width:310px;
+	height:27px;
+	font-size: 27px;
+	font-family:"微软雅黑";
+	margin-top:49px;
+	margin-left:272px;
+}
+.c1-1{
+	color:#c2191f;
+}
+.c1-3{
+	font-size:16px;
+	font-weight: normal;
+}
+.center2{
+	width:1362px;
+	height:385px;
+	background: url(image3/map.jpg) no-repeat;
+	margin-top:80px;
+	margin-left: 270px;
+	position: relative;
+}
+.c2-1{
+	width:22px;
+	height:27px;
+	background: url(image3/c4.png) no-repeat;
+	margin-top:219px;
+	margin-right: 388px;
+}
+.c2-2{
+	width:240px;
+	height:211px;
+	background:url(image3/c3.png) no-repeat;
+	top:16px;
+	left:738px;
+	position: absolute;
+}
+.c2-2-1{
+	width:240px;
+	height:117px;
+	background:url(image3/c1.jpg) no-repeat;
+	margin-bottom:8px;
+}
+.c2-2-2{
+	font-size: 14px;
+	font-family:"微软雅黑";
+	line-height: 20px;
+	text-indent: 14px;
+	color:#dec7a1;
+}
+.footer{
+	width:1920px;
+	height:186px;
+}
+.footer1{
+    width:200px;
+	height:55px;
+	background: url(image/logo.png) no-repeat;
+	margin-top:64px;
+	margin-left:310px;
+}
+.footer2{
+	width:1042px;
+	height:70px;
+	background: url(image/footer.png) no-repeat;
+	margin-top:50px;
+	margin-right:334px;
+}
+.f2-1 a{
+	text-decoration: none;
+	color:#b3b4b4;
+	font-size:14px;
+}
+.f2-1-1{
+	margin-left:550px;
+	margin-top:10px;
+}
+.f2-1-2{
+	margin-left:630px;
+	margin-top:-16px;
+}
+.f2-1-3{
+	margin-left:720px;
+	margin-top:-18px;
+}
+.f2-1-4{
+	margin-right:190px;
+	margin-top:-18px;
+}
+.f2-1-5{
+	color:#b3b4b4;
+	font-size:14px;
+	margin-right:190px;
+}
